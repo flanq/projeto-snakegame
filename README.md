@@ -1,2 +1,2 @@
 # projeto-snakegame
-Projeto da DIO de criação do Snake Game.
+Projeto da DIO de criação do Snake Game utilizando JavaScript
